@@ -1,17 +1,45 @@
-# society_connect
+ Society Connect
 
-Society Connect is a multilingual society management app that helps housing societies manage residents, flats, maintenance bills, payments, notices, complaints, and receipts in one place.
+Smart Society Management App | Flutter + Firebase
 
-## Getting Started
+Society Connect is a digital society management application designed to simplify housing society operations. It helps administrators manage residents, flats, maintenance, notices and other society activities in one place.
 
-This project is a starting point for a Flutter application.
+🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Society creation and management
+- Wing and flat management
+- Resident registration and management
+- Owner and tenant details
+- Flat occupancy status
+- Maintenance management
+- Notices and announcements
+- Visitor management
+- Firebase-based backend
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+🛠️ Technology Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Functions
+
+📱 Platform
+
+- Android
+
+🎯 Project Goal
+
+To make housing society management easier, faster and more organized through a simple digital platform.
+
+👨‍💻 Developer
+
+Aashi Tech
+
+📌 Project Status
+
+Development and testing in progress.
+
+⚠️ Note
+
+This project is under development. Features and functionality may change as development continues.
